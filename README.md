@@ -1,10 +1,10 @@
 # Movie-Trend
 
 ## Mockup app nya
-![](screenshot/Mockup App.png)
+![](screenshot/MockupApp.png)
 
 ## StoryBoard 
-![](screenshot/StoryBoard App.png)
+![](screenshot/StoryBoardApp.png)
 
 ## UI nya
-![](screenshot/Ui.png)
+![](screenshot/UiApp.png)
